@@ -16,7 +16,7 @@ public class Listdirectory {
         for (File data:list)
         {
             System.out.println("Name: "+data.getName());
-            System.out.println("Size: "+data.getTotalSpace();
+            System.out.println("Size: "+data.getTotalSpace());
         }
 
     
